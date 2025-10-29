@@ -15,7 +15,7 @@
         if (!dom.mobileToolbarTitle) {
             return;
         }
-        dom.mobileToolbarTitle.textContent = "Le Shang";
+        dom.mobileToolbarTitle.textContent = "Solara";
     }
 
     function updateMobileOverlayScrim() {
